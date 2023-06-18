@@ -1,0 +1,125 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/0a/c2/af/0ac2af5415f9062d54f9366bb4b75610.gif");
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    /* font-family: "Ubuntu", sans-serif; */
+    background-size: cover;
+    background-position: center;
+}
+img{
+  margin: 15px;
+  padding-top: 2px;
+  padding-left: 2px;
+  padding: 2px;
+  width: 700px;
+  height: 700px;
+}
+p {
+    color: cornflowerblue;
+    font-size: 125%;
+    max-width: 700px;
+    margin-top: 10px;
+    
+    padding: 10px;
+
+}
+h1, h2 {
+    margin-left: 500px;
+      color: cadetblue;
+      font-size: 200%;
+      font-style: italic;
+  }
+  nav {
+    background-color: #333333;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+  }
+  
+  nav ul li a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 20px;
+  }
+  
+  nav ul li a:hover {
+    background-color: #555555;
+  }
+  
+  .my-button {
+    background-color: #4CAF50;
+    color: white;
+    border: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    /* text-decoration: none; */
+    display: inline-block;
+    font-size: 20px;
+    transition-duration: 0.3s;
+    cursor: pointer;
+  }
+  
+  .my-button:hover {
+    background-color: #45a049;
+  }
+
+  .card {
+    display: inline-block;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(158, 4, 4, 0.1);
+    overflow: hidden;
+  }
+  
+  .card img {
+    width: 100px;
+    height: 100px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .card-content {
+    padding: 16px;
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    
+  }
+  
+  .card-description {
+    font-size: 14px;
+    color: #19c6c9;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px blue;
+  }
+  
+
+  .my-button {
+    background-color: #4CAF50;
+    color: white;
+    border: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    /* text-decoration: none; */
+    display: inline-block;
+    font-size: 20px;
+    transition-duration: 0.3s;
+    cursor: pointer;
+  }
+  
+  .my-button:hover {
+    background-color: #45a049;
+  }
